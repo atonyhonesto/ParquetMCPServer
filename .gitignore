@@ -1,0 +1,40 @@
+## .NET / C#
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+.vs/
+*.log
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+## NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+packages/
+!**/packages/build/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Claude Code
+.claude/settings.local.json
